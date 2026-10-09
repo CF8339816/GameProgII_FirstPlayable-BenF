@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Security.Cryptography;
 using System.Text;
 using System.Threading;
@@ -12,8 +13,32 @@ namespace GameProgII_FirstPlayable_BenF
     internal class Program
     {
 
+        #region Added Feature ChrisF-Forced Maximize Startup
+        [DllImport("user32.dll")]
+        private static extern IntPtr GetForegroundWindow();
+
+        [DllImport("user32.dll")]
+        private static extern bool ShowWindow(IntPtr hWnd, int nCmdShow); //Define the 'Maximize' command constant
+
+
+        private const int SW_RESTORE = 9;   // Unlocks the layout constraints
+        private const int SW_MAXIMIZE = 3;
+        #endregion
+
         static void Main(string[] args)
         {
+        #region Added Feature ChrisF-Startup Maxixization
+     
+
+            Thread.Sleep(50);//does a little delay on startup to process the screen resize
+            IntPtr handle = GetForegroundWindow();
+            if (handle != IntPtr.Zero)
+            {
+                ShowWindow(handle, SW_RESTORE);
+                ShowWindow(handle, SW_MAXIMIZE);
+            }
+      
+        #endregion
            GameManager Game = new GameManager();
 
            while (true)

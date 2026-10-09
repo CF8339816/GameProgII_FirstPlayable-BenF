@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\GameProgII_FirstPlayable-BenF",
-    "\\GameProgII_FirstPlayable-BenF\\Map"
+    "\\GameProgII_FirstPlayable-BenF"
   ],
-  "SelectedNode": "\\GameProgII_FirstPlayable-BenF.sln",
+  "SelectedNode": "\\GameProgII_FirstPlayable-BenF\\GameManager.cs",
   "PreviewInSolutionExplorer": false
 }
