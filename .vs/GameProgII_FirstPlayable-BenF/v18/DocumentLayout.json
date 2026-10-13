@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CFD64C3C-56A2-495D-9B0D-019BDB0F4B3A}|GameProgII_FirstPlayable-BenF\\GameProgII_FirstPlayable-BenF.csproj|C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\gameprogii_firstplayable-benf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFD64C3C-56A2-495D-9B0D-019BDB0F4B3A}|GameProgII_FirstPlayable-BenF\\GameProgII_FirstPlayable-BenF.csproj|solutionrelative:gameprogii_firstplayable-benf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFD64C3C-56A2-495D-9B0D-019BDB0F4B3A}|GameProgII_FirstPlayable-BenF\\GameProgII_FirstPlayable-BenF.csproj|c:\\gitunityproj\\gameprogii_firstplayable-benf-newfunction-chrisf\\gameprogii_firstplayable-benf\\fieldofvisioncam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD64C3C-56A2-495D-9B0D-019BDB0F4B3A}|GameProgII_FirstPlayable-BenF\\GameProgII_FirstPlayable-BenF.csproj|solutionrelative:gameprogii_firstplayable-benf\\fieldofvisioncam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFD64C3C-56A2-495D-9B0D-019BDB0F4B3A}|GameProgII_FirstPlayable-BenF\\GameProgII_FirstPlayable-BenF.csproj|c:\\gitunityproj\\gameprogii_firstplayable-benf-newfunction-chrisf\\gameprogii_firstplayable-benf\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CFD64C3C-56A2-495D-9B0D-019BDB0F4B3A}|GameProgII_FirstPlayable-BenF\\GameProgII_FirstPlayable-BenF.csproj|C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\gameprogii_firstplayable-benf\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD64C3C-56A2-495D-9B0D-019BDB0F4B3A}|GameProgII_FirstPlayable-BenF\\GameProgII_FirstPlayable-BenF.csproj|solutionrelative:gameprogii_firstplayable-benf\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD64C3C-56A2-495D-9B0D-019BDB0F4B3A}|GameProgII_FirstPlayable-BenF\\GameProgII_FirstPlayable-BenF.csproj|C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\gameprogii_firstplayable-benf\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFD64C3C-56A2-495D-9B0D-019BDB0F4B3A}|GameProgII_FirstPlayable-BenF\\GameProgII_FirstPlayable-BenF.csproj|solutionrelative:gameprogii_firstplayable-benf\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD64C3C-56A2-495D-9B0D-019BDB0F4B3A}|GameProgII_FirstPlayable-BenF\\GameProgII_FirstPlayable-BenF.csproj|c:\\gitunityproj\\gameprogii_firstplayable-benf-newfunction-chrisf\\gameprogii_firstplayable-benf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD64C3C-56A2-495D-9B0D-019BDB0F4B3A}|GameProgII_FirstPlayable-BenF\\GameProgII_FirstPlayable-BenF.csproj|solutionrelative:gameprogii_firstplayable-benf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CFD64C3C-56A2-495D-9B0D-019BDB0F4B3A}|GameProgII_FirstPlayable-BenF\\GameProgII_FirstPlayable-BenF.csproj|C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\gameprogii_firstplayable-benf\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,10 +67,6 @@
       "RelativeMoniker": "D:0:0:{CFD64C3C-56A2-495D-9B0D-019BDB0F4B3A}|GameProgII_FirstPlayable-BenF\\GameProgII_FirstPlayable-BenF.csproj|solutionrelative:gameprogii_firstplayable-benf\\files\\mapfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFD64C3C-56A2-495D-9B0D-019BDB0F4B3A}|GameProgII_FirstPlayable-BenF\\GameProgII_FirstPlayable-BenF.csproj|C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\gameprogii_firstplayable-benf\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFD64C3C-56A2-495D-9B0D-019BDB0F4B3A}|GameProgII_FirstPlayable-BenF\\GameProgII_FirstPlayable-BenF.csproj|solutionrelative:gameprogii_firstplayable-benf\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CFD64C3C-56A2-495D-9B0D-019BDB0F4B3A}|GameProgII_FirstPlayable-BenF\\GameProgII_FirstPlayable-BenF.csproj|C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\gameprogii_firstplayable-benf\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFD64C3C-56A2-495D-9B0D-019BDB0F4B3A}|GameProgII_FirstPlayable-BenF\\GameProgII_FirstPlayable-BenF.csproj|solutionrelative:gameprogii_firstplayable-benf\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -99,32 +103,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FieldOfVisionCam.cs",
+              "DocumentMoniker": "C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\GameProgII_FirstPlayable-BenF\\FieldOfVisionCam.cs",
+              "RelativeDocumentMoniker": "GameProgII_FirstPlayable-BenF\\FieldOfVisionCam.cs",
+              "ToolTip": "C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\GameProgII_FirstPlayable-BenF\\FieldOfVisionCam.cs",
+              "RelativeToolTip": "GameProgII_FirstPlayable-BenF\\FieldOfVisionCam.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T13:29:26.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\GameProgII_FirstPlayable-BenF\\Program.cs",
               "RelativeDocumentMoniker": "GameProgII_FirstPlayable-BenF\\Program.cs",
               "ToolTip": "C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\GameProgII_FirstPlayable-BenF\\Program.cs",
               "RelativeToolTip": "GameProgII_FirstPlayable-BenF\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwA8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-07T12:32:21.162Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\GameProgII_FirstPlayable-BenF\\GameManager.cs",
               "RelativeDocumentMoniker": "GameProgII_FirstPlayable-BenF\\GameManager.cs",
               "ToolTip": "C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\GameProgII_FirstPlayable-BenF\\GameManager.cs",
               "RelativeToolTip": "GameProgII_FirstPlayable-BenF\\GameManager.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAEsAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAHUCAAAAAAAAAAAmwBsAAACGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-07T12:32:21.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IEntity.cs",
               "DocumentMoniker": "C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\GameProgII_FirstPlayable-BenF\\IEntity.cs",
               "RelativeDocumentMoniker": "GameProgII_FirstPlayable-BenF\\IEntity.cs",
@@ -136,19 +153,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\GameProgII_FirstPlayable-BenF\\Player.cs",
               "RelativeDocumentMoniker": "GameProgII_FirstPlayable-BenF\\Player.cs",
               "ToolTip": "C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\GameProgII_FirstPlayable-BenF\\Player.cs",
               "RelativeToolTip": "GameProgII_FirstPlayable-BenF\\Player.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwAkAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T12:32:21.306Z"
+              "WhenOpened": "2026-10-07T12:32:21.306Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ICharacter.cs",
               "DocumentMoniker": "C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\GameProgII_FirstPlayable-BenF\\ICharacter.cs",
               "RelativeDocumentMoniker": "GameProgII_FirstPlayable-BenF\\ICharacter.cs",
@@ -160,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\GameProgII_FirstPlayable-BenF\\Enemy.cs",
               "RelativeDocumentMoniker": "GameProgII_FirstPlayable-BenF\\Enemy.cs",
@@ -172,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ConfusedEnemy.cs",
               "DocumentMoniker": "C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\GameProgII_FirstPlayable-BenF\\ConfusedEnemy.cs",
               "RelativeDocumentMoniker": "GameProgII_FirstPlayable-BenF\\ConfusedEnemy.cs",
@@ -184,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "HeavyEnemy.cs",
               "DocumentMoniker": "C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\GameProgII_FirstPlayable-BenF\\HeavyEnemy.cs",
               "RelativeDocumentMoniker": "GameProgII_FirstPlayable-BenF\\HeavyEnemy.cs",
@@ -196,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Pickup.cs",
               "DocumentMoniker": "C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\GameProgII_FirstPlayable-BenF\\Pickup.cs",
               "RelativeDocumentMoniker": "GameProgII_FirstPlayable-BenF\\Pickup.cs",
@@ -208,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Coin.cs",
               "DocumentMoniker": "C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\GameProgII_FirstPlayable-BenF\\Coin.cs",
               "RelativeDocumentMoniker": "GameProgII_FirstPlayable-BenF\\Coin.cs",
@@ -220,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Upgrade.cs",
               "DocumentMoniker": "C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\GameProgII_FirstPlayable-BenF\\Upgrade.cs",
               "RelativeDocumentMoniker": "GameProgII_FirstPlayable-BenF\\Upgrade.cs",
@@ -232,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "HealthItem.cs",
               "DocumentMoniker": "C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\GameProgII_FirstPlayable-BenF\\HealthItem.cs",
               "RelativeDocumentMoniker": "GameProgII_FirstPlayable-BenF\\HealthItem.cs",
@@ -244,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Hazard.cs",
               "DocumentMoniker": "C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\GameProgII_FirstPlayable-BenF\\Hazard.cs",
               "RelativeDocumentMoniker": "GameProgII_FirstPlayable-BenF\\Hazard.cs",
@@ -256,19 +274,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 1,
               "Title": "Map.cs",
               "DocumentMoniker": "C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\GameProgII_FirstPlayable-BenF\\Map.cs",
               "RelativeDocumentMoniker": "GameProgII_FirstPlayable-BenF\\Map.cs",
               "ToolTip": "C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\GameProgII_FirstPlayable-BenF\\Map.cs",
               "RelativeToolTip": "GameProgII_FirstPlayable-BenF\\Map.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAEwA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T12:32:21.323Z"
+              "WhenOpened": "2026-10-07T12:32:21.323Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "HazardInfoFile.txt",
               "DocumentMoniker": "C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\GameProgII_FirstPlayable-BenF\\Files\\HazardInfoFile.txt",
               "RelativeDocumentMoniker": "GameProgII_FirstPlayable-BenF\\Files\\HazardInfoFile.txt",
@@ -280,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "MapFile.txt",
               "DocumentMoniker": "C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\GameProgII_FirstPlayable-BenF\\Files\\MapFile.txt",
               "RelativeDocumentMoniker": "GameProgII_FirstPlayable-BenF\\Files\\MapFile.txt",
@@ -292,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "UpgradeInfoFile.txt",
               "DocumentMoniker": "C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\GameProgII_FirstPlayable-BenF\\Files\\UpgradeInfoFile.txt",
               "RelativeDocumentMoniker": "GameProgII_FirstPlayable-BenF\\Files\\UpgradeInfoFile.txt",
@@ -304,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "HealthInfoFile.txt",
               "DocumentMoniker": "C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\GameProgII_FirstPlayable-BenF\\Files\\HealthInfoFile.txt",
               "RelativeDocumentMoniker": "GameProgII_FirstPlayable-BenF\\Files\\HealthInfoFile.txt",
@@ -316,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "CoinInfoFile.txt",
               "DocumentMoniker": "C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\GameProgII_FirstPlayable-BenF\\Files\\CoinInfoFile.txt",
               "RelativeDocumentMoniker": "GameProgII_FirstPlayable-BenF\\Files\\CoinInfoFile.txt",
@@ -328,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "EnemyInfoFile.txt",
               "DocumentMoniker": "C:\\GITunityPROJ\\GameProgII_FirstPlayable-BenF-NewFunction-ChrisF\\GameProgII_FirstPlayable-BenF\\Files\\EnemyInfoFile.txt",
               "RelativeDocumentMoniker": "GameProgII_FirstPlayable-BenF\\Files\\EnemyInfoFile.txt",

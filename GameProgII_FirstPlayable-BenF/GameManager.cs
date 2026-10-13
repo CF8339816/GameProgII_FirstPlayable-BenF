@@ -25,7 +25,7 @@ namespace GameProgII_FirstPlayable_BenF
 
         //create entities
         static Map map = new Map();
-        static Player player = new Player(6, 5, map, 10);
+        static public Player player = new Player(6, 5, map, 10);/// made public so  fieldoof vision cam could access player location - CF
 
         //list of enemies
         static List<ICharacter> enemies = new List<ICharacter>();

@@ -12,8 +12,8 @@ namespace GameProgII_FirstPlayable_BenF
     {
         static public string path = @"Files/MapFile.txt";
 
-        static public string mapData = File.ReadAllText(path); 
-
+        static public string mapData = File.ReadAllText(path);
+       //public FieldOfVisionCam fieldOfVisionCam;// initalize fieldof vision cam  for masking map.- CF
         //scale of map
         static public int rows = 89;
         static public int cols = 36;
@@ -103,6 +103,7 @@ namespace GameProgII_FirstPlayable_BenF
                     }
                 }
             }
+           
         }
 
 
@@ -182,6 +183,7 @@ namespace GameProgII_FirstPlayable_BenF
                     }
                 }
             }
+          
         }
 
 
